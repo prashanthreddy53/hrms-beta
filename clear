@@ -1,0 +1,52 @@
+[33mcommit 18fef27011c8212c28f3196ea13deda6864c9bf4[m[33m ([m[1;36mHEAD -> [m[1;32mcore[m[33m)[m
+Author: prashanthreddy53 <prashanthreddy8855@gmail.com>
+Date:   Wed Dec 14 10:15:01 2022 +0000
+
+     v1-testfile
+
+[1mdiff --git a/src/.testfile.txt.swj b/src/.testfile.txt.swj[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3c610da[m
+Binary files /dev/null and b/src/.testfile.txt.swj differ
+[1mdiff --git a/src/.testfile.txt.swk b/src/.testfile.txt.swk[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4e0dc33[m
+Binary files /dev/null and b/src/.testfile.txt.swk differ
+[1mdiff --git a/src/.testfile.txt.swl b/src/.testfile.txt.swl[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ab6ecd0[m
+Binary files /dev/null and b/src/.testfile.txt.swl differ
+[1mdiff --git a/src/.testfile.txt.swm b/src/.testfile.txt.swm[m
+[1mnew file mode 100644[m
+[1mindex 0000000..824e769[m
+Binary files /dev/null and b/src/.testfile.txt.swm differ
+[1mdiff --git a/src/.testfile.txt.swn b/src/.testfile.txt.swn[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8322d51[m
+Binary files /dev/null and b/src/.testfile.txt.swn differ
+[1mdiff --git a/src/.testfile.txt.swo b/src/.testfile.txt.swo[m
+[1mnew file mode 100644[m
+[1mindex 0000000..db4afc8[m
+Binary files /dev/null and b/src/.testfile.txt.swo differ
+[1mdiff --git a/src/.testfile.txt.swp b/src/.testfile.txt.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..52f80dc[m
+Binary files /dev/null and b/src/.testfile.txt.swp differ
+[1mdiff --git a/src/.testfile2.txt.swp b/src/.testfile2.txt.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..daf4b67[m
+Binary files /dev/null and b/src/.testfile2.txt.swp differ
+[1mdiff --git a/src/.testfile3.txt.swp b/src/.testfile3.txt.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..39daeb1[m
+Binary files /dev/null and b/src/.testfile3.txt.swp differ
+[1mdiff --git a/src/.testfile4.txt.swp b/src/.testfile4.txt.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e128f12[m
+Binary files /dev/null and b/src/.testfile4.txt.swp differ
+[1mdiff --git a/src/testfile.txt b/src/testfile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/textfile.txt b/textfile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
